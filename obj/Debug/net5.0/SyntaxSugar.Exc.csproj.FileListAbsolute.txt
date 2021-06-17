@@ -1,0 +1,16 @@
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\bin\Debug\net5.0\SyntaxSugar.Exc.exe
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\bin\Debug\net5.0\SyntaxSugar.Exc.deps.json
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\bin\Debug\net5.0\SyntaxSugar.Exc.runtimeconfig.json
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\bin\Debug\net5.0\SyntaxSugar.Exc.runtimeconfig.dev.json
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\bin\Debug\net5.0\SyntaxSugar.Exc.dll
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\bin\Debug\net5.0\ref\SyntaxSugar.Exc.dll
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\bin\Debug\net5.0\SyntaxSugar.Exc.pdb
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\SyntaxSugar.Exc.csproj.AssemblyReference.cache
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\SyntaxSugar.Exc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\SyntaxSugar.Exc.AssemblyInfoInputs.cache
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\SyntaxSugar.Exc.AssemblyInfo.cs
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\SyntaxSugar.Exc.csproj.CoreCompileInputs.cache
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\SyntaxSugar.Exc.dll
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\ref\SyntaxSugar.Exc.dll
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\SyntaxSugar.Exc.pdb
+C:\Users\Liv\source\repos\SyntaxSugar.Exc\obj\Debug\net5.0\SyntaxSugar.Exc.genruntimeconfig.cache
